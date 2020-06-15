@@ -1,0 +1,40 @@
+.wrapper {
+	display: flex;
+}#6ECEF6
+label {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.form-group {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 260px;
+	padding-left: 20px;
+	margin-left: 15px;
+}
+
+.form-control-text {
+	margin-left: 30px;
+}
+
+input {
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.buttons {
+	display: flex;
+	align-items: center;
+	margin-left: 15px;
+}
+
+.btn-primary {
+	background-color: #6ECEF6;
+}
+
+.btn-result {
+	margin-left: 15px;
+	background-color: #6ECEF6;
+}
